@@ -32,7 +32,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sachinSingh53/mirror_backend_task.git
+   git clone https://github.com/sachinSingh53/E-Commerce.git
+   
    
 2. Install dependencies:
 
