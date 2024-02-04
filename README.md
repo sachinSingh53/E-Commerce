@@ -1,4 +1,4 @@
-# Mirrar Task
+# E-Commerce Backend
 
 This project is a simple Node.js and MongoDB application for E-Commerce. It provides API endpoints for creating, updating, searching, and deleting products and their variants.
 
