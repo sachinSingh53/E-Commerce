@@ -13,5 +13,13 @@ services:
 
     environment:
       - NODE_ENV=development
+      - MONGO_USER=sachin
+      - MONGO_PASSWORD=sachin
 
     command: npm run dev
+  
+  mongo:
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=sachin
+      - MONGO_INITDB_ROOT_PASSWORD=sachin
+    
